@@ -1,5 +1,3 @@
-# 6053 Final Project
-
 ## Summary
 
 ### The estimand to be tested:
